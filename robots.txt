@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://youtube-thumbnail-grabber.com/sitemap.xml
+
